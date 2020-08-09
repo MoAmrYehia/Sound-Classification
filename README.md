@@ -1,2 +1,2 @@
-# voice_recognition_vs_covid19
+# Sound Classification
 this is a trial for audio classification 

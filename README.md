@@ -18,19 +18,15 @@ I used Freesound General-Purpose Audio Tagging Challenge [dataset](https://www.k
 
 ## Notebooks
 **FFT.ipynb**: a notbook where I cleaned the audio fils, appiled fft, and mfccs filter.
+
 **CNN.ipynb**: a notebook where I reimplemented a CNN model that classify audio amound 10 different classes.
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/MoAmrYehia/res/master/1.png?token=AJUWNR3XVYG4FKCJXPQRXK3AAQUVK"
         width = "1100" 
         height= "220">
-    <img src="https://raw.githubusercontent.com/MoAmrYehia/res/master/2.png?token=AJUWNR6LE6T3FLAGBO5G6YLAAQUVO"
-        width = "1100" 
-        height= "220">
       <img src="https://raw.githubusercontent.com/MoAmrYehia/res/master/3.png?token=AJUWNR4BDPN6H2OUW7JNS2TAAQUVU"
         width = "1100" 
         height= "220">
-      <img src="https://raw.githubusercontent.com/MoAmrYehia/res/master/4.png?token=AJUWNR5LGOLHRYQUWHKV4DTAAQUVY"
-        width = "1100" 
-        height= "220">
+
 </p>

@@ -1,4 +1,9 @@
 # Sound Classification
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/MoAmrYehia/res/master/DetectLogo.png?token=AJUWNR2ZXO76QWSFEFA2DWTAAQTNW">
+</p>
+
 I created these two notebooks during [CodeVsCOVID19](https://codevscovid19.devpost.com/) as a proof of concept for our solution [DetectNow](https://www.detect-now.org/). 
 
 ## Inspiration 

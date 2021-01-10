@@ -15,3 +15,6 @@ Cough is one of the main symptoms of COVID-19 and based on the idea of cough ana
 
 ## Dataset
 I used Freesound General-Purpose Audio Tagging Challenge [dataset](https://www.kaggle.com/c/freesound-audio-tagging) from Kaggle. 
+
+## Notebooks
+**FFT.ipynb**: a notbook where I cleaned the audio fils, appiled fft, and mfccs filter.

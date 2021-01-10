@@ -8,3 +8,5 @@ Cough is one of the main symptoms of COVID-19 and based on the idea of cough ana
 
 > DISCLAIMER: As I cannot share the clinical data or the results, I retrain the model on public instruments data. 
 
+## Dataset
+I used Freesound General-Purpose Audio Tagging Challenge [dataset](https://www.kaggle.com/c/freesound-audio-tagging) from Kaggle. 

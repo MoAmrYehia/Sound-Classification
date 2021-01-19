@@ -32,4 +32,8 @@ I used Freesound General-Purpose Audio Tagging Challenge [dataset](https://www.k
 </p>
 
 ## Accomplishments 
-add me
+* Working on a common mission with a team of machine learning engineers, doctors, and entrepreneurs.
+* We are non-profit, work for the social good, and are humanitarian. We plan to stay this way.
+* Having built a functional prototype over a weekend: https://www.detect-now.org/
+* We got listed on Forbes, CNN, Live HUM TV interview and we are leading efforts for an umbrella organization with top research universities.
+

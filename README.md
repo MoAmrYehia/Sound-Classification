@@ -25,7 +25,7 @@ I used Freesound General-Purpose Audio Tagging Challenge [dataset](https://www.k
     <img src="https://raw.githubusercontent.com/MoAmrYehia/res/master/1.png?"
         width = "1100" 
         height= "220">
-      <img src="https://raw.githubusercontent.com/MoAmrYehia/res/master/3.png?token=AJUWNR337DVJSOYJJFFVHRLAB2L2Y"
+      <img src="https://raw.githubusercontent.com/MoAmrYehia/res/master/3.png?"
         width = "1100" 
         height= "220">
 

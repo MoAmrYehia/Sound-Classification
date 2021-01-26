@@ -22,7 +22,7 @@ I used Freesound General-Purpose Audio Tagging Challenge [dataset](https://www.k
 **CNN.ipynb**: a notebook where I reimplemented a CNN model that classify audio amound 10 different classes.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/MoAmrYehia/res/master/1.png?token=AJUWNR2VFXXANU55KE5LTPTAB2L2I"
+    <img src="https://raw.githubusercontent.com/MoAmrYehia/res/master/1.png?"
         width = "1100" 
         height= "220">
       <img src="https://raw.githubusercontent.com/MoAmrYehia/res/master/3.png?token=AJUWNR337DVJSOYJJFFVHRLAB2L2Y"
